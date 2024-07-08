@@ -14799,6 +14799,11 @@ tailwind-merge@^2.0.0:
   dependencies:
     "@babel/runtime" "^7.23.1"
 
+tailwindcss-highlights@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/tailwindcss-highlights/-/tailwindcss-highlights-1.0.0.tgz#70cc760c0b6549c3ee07a9544559bf7f758e9049"
+  integrity sha512-sA7QU493tb2gNMsVm1bV5UrqmFbdNg+mkPUF8xy8xxekQtj1GgOcL3uyqs8DQAoeMyVM1Hz/hHSvyI4ORvar3g==
+
 tailwindcss@^3.3.5:
   version "3.3.5"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.3.5.tgz#22a59e2fbe0ecb6660809d9cc5f3976b077be3b8"

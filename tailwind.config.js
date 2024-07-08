@@ -83,7 +83,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('tailwindcss-highlights')],
   future: {
     hoverOnlyWhenSupported: true,
   },
